@@ -1,2 +1,3 @@
-# Hello-world
-Introduction
+# Hi I'm Daniela! 
+Student at **FAU** majoring in **Computer Science**
+## Sofware Developer Projects:
