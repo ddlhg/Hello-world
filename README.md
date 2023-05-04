@@ -2,9 +2,9 @@
 Student at **FAU** majoring in **Computer Science**
 ## 👩‍💻 Sofware Developer Projects:
 - **HTML & CSS** 
-  - uno
-  - dos
-  - tres
-  - cuatro
+  - resume
+  - resume.2
+  - calculator
+  - tic tac toe
 - **C++**
   - tres
