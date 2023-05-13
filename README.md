@@ -10,7 +10,7 @@
 - **Data Structures and Algorithms Practice**
   - [Data Structures](https://github.com/ddlhg/Practice-Algorithms)
   - [FCFS scheduler](https://github.com/ddlhg/FCFS_scheduler)
-  - [C++ mini codes](https://github.com/ddlhg/Mini-Projects)
+  - [Mini codes](https://github.com/ddlhg/Mini-Projects)
 
 ## 📨 Connect with me: ##
 
