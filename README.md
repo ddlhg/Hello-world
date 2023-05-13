@@ -9,7 +9,7 @@ Student at **FAU** majoring in **Computer Science**
   - FCFS scheduler
   - Binary tree
 - **Data Structures and Algorithms Practice**
-  - [Algorithms](https://github.com/joshmadakor1/Algorithms-Practice) <- change with new repository
+  - [Algorithms](https://github.com/ddlhg/Practice-Algorithms)
 
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
