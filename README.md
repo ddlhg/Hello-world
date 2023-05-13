@@ -3,11 +3,11 @@
 
 ## 👩‍💻 Sofware Developer Projects:
 - **HTML & CSS** 
-  - calculator
-  - tic tac toe
+  - [Calculator](https://github.com/ddlhg/Calculator)
+  - [Tic-tac-toe](https://github.com/ddlhg/Tic-tac-toe)
+  - [Main Website](https://github.com/ddlhg/Main_Website)
 - **C++**
-  - FCFS scheduler
-  - Binary tree
+  - [FCFS scheduler](https://github.com/ddlhg/FCFS_scheduler)
 - **Data Structures and Algorithms Practice**
   - [Algorithms](https://github.com/ddlhg/Practice-Algorithms)
 
