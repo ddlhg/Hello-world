@@ -6,6 +6,7 @@
   - [Calculator](https://github.com/ddlhg/Calculator)
   - [Tic-tac-toe](https://github.com/ddlhg/Tic-tac-toe)
   - [Main Website](https://github.com/ddlhg/Main_Website)
+  - [Random Choice](https://github.com/ddlhg/Random_choice)
 
 - **Data Structures and Algorithms Practice**
   - [Data Structures](https://github.com/ddlhg/Practice-Algorithms)
